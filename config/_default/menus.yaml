@@ -5,12 +5,17 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '/'
     weight: 10
     
   - name: Publications
-    url: '#featured'
+    url: '/publication'
     weight: 20
+    target: "_blank"
+  - name: CV
+    url: 'https://docs.google.com/document/d/1df2KVh0iR_Kbvc2GMum00jBleyb5Ia8-bUO0Z1IGd54/edit?usp=sharing'
+    weight: 30
+    target: '_blank'
 
 
 # Link to a PDF of your resume/CV from the menu.

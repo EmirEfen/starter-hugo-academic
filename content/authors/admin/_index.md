@@ -4,7 +4,7 @@ title: Emir Efendić
 
 # Full name (for SEO)
 first_name: Emir
-last_name: Efendic
+last_name: Efendić
 
 # Status emoji
 status:
@@ -22,14 +22,14 @@ organizations:
     url: https://www.maastrichtuniversity.nl/nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Risk judgments
-  - Judgments of algorithmic systems
+  - Decision making 
+  - Judgment accuracy 
   - Collective intelligence
-  - Affect and decision making
+
 
 # Education to show in About widget
 education:
@@ -50,10 +50,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:efenemir@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/emirefen 
-    label: Follow me on Twitter
+  - icon: cloud
+    icon_pack: fas
+    link: https://bsky.app/profile/emire.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: google-scholar
@@ -68,9 +68,7 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -79,9 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a psychologist working mostly in the domain of judgment and decision-making. In my research I look at a wide-range of topics focusing, in general, on how people make decisions, what impacts their choices, and finding ways to improve decision-making. I tackle these issues using lab or online experiments, applying a mostly quantitative approach to the analysis of behavior. 
+I'm a psychologist studying how people make judgments and decisions, with a focus on why they sometimes go wrong and how accuracy can be improved. My work combines psychology, behavioral economics, and management science to examine how individuals reason, choose, estimate, and forecast. Increasingly, I study how people's judgments can be leveraged on a collective level and what role, if any, AI systems can play in these interventions. 
 
-I am an assistant professor at Maastricht University's School of Business and Economics in the Netherlands. There, I also teach various courses and supervise both Master and PhD students. Currently, I'm teaching a research methodology course for International Business Master students. 
-
-Lately, I'm interested in how people judge decisions made by algorithmic systems, how people navigate risky prospects, and developing simple algorithms to extract accurate information from crowd judgments.
+I am an assistant professor at Maastricht University's School of Business and Economics in the Netherlands where I teach and supervise students in the Department of Marketing and Supply-Chain Management. My research uses laboratory and online experiments and quantitative modeling to understand individual decisions.  
 {style="text-align: justify;"}
